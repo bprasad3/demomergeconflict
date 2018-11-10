@@ -1,2 +1,3 @@
 # demomergeconflict
 second conflict
+new
